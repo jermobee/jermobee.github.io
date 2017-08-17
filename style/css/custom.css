@@ -1,0 +1,55 @@
+/* background image */
+body {
+	background-image:url(../..//media/img/bg/background-7.png);
+	}
+
+/* color for the headers and form labels */
+h1,h2,h3,label {
+	color:#555555;
+	}
+
+/* highlight color for the active tab */
+.ui-tabs-nav .ui-tabs-active a {
+	border-color:#555555;
+	}
+
+/* color for the vcard download icon */
+#vcard {
+	background-color:#555555;
+	}
+
+/* color for the stars on the skills list */
+.skills li span.stars {
+	background-color:#555555;
+	}
+
+/* color for the tags in the portfolio */
+.tags li {
+	background-color:#555555;
+	}
+
+/* color for the links in text content */
+a {
+	color:#555555;
+	}
+	
+/* color for the icons in the navigation */
+.ui-tabs-nav li.ui-tabs-active [class*="icon-"] {
+	color:#555555;
+	}
+
+/* Letters of Recommendation */
+.letters {
+	width: 100%;
+	margin: 0 auto;
+	display: flex;
+	display: -webkit-flex; /* Safari 8 */
+	flex-wrap: wrap;
+	-webkit-flex-wrap: wrap; /* Safari 8 */
+	justify-content: center;
+	-webkit-justify-content: center; /* Safari 8 */
+}
+.letter {
+	width: 155px;
+	margin: 0;
+}
